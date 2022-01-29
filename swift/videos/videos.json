@@ -1,0 +1,10 @@
+{
+    "pages" : [
+        "https://progressbartw.github.io/swift/videos/page1.json",
+        "https://progressbartw.github.io/swift/videos/page2.json",
+        "https://progressbartw.github.io/swift/videos/page3.json",
+        "https://progressbartw.github.io/swift/videos/page4.json",
+        "https://progressbartw.github.io/swift/videos/page5.json",
+        "https://progressbartw.github.io/swift/videos/page6.json"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "youtube" : {
+        "videos" : {
+            "index" : "https://progressbartw.github.io/swift/videos/videos.json"
+        },
+        "playlists" : {
+            "index" : "https://progressbartw.github.io/swift/playlists/playlists.json"
+        },
+        "topics" : {
+            "index" : "https://progressbartw.github.io/swift/topics/topics.json"
+        }
+    }
+}
